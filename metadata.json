@@ -1,0 +1,8 @@
+
+{
+  "name": "KalaMarket - Handcrafted Indian Artistry",
+  "description": "A premium, minimal marketplace for original Indian artworks and handcrafted products, designed for simplicity, trust, and emotional connection between artists and buyers.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
